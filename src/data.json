@@ -1,0 +1,1170 @@
+[
+    {
+        "lessonId": 1,
+        "lessonName": "Saludos y presentaciones",
+        "lessonPath": "/lesson/1",
+        "questions": [
+            {
+                "sentence": "Hola, ¿cómo estás?",
+                "question": "What does 'Hola' mean?",
+                "options": {
+                    "1": "Hello",
+                    "2": "Goodbye",
+                    "3": "Please",
+                    "4": "Thank you"
+                },
+                "rightAnswer": 1
+            },
+            {
+                "sentence": "Me llamo Ana.",
+                "question": "What does 'Me llamo' mean?",
+                "options": {
+                    "1": "I am",
+                    "2": "My name is",
+                    "3": "Nice to meet you",
+                    "4": "Good morning"
+                },
+                "rightAnswer": 2
+            },
+            {
+                "sentence": "Buenos días, señor.",
+                "question": "What does 'Buenos días' mean?",
+                "options": {
+                    "1": "Goodbye",
+                    "2": "Good night",
+                    "3": "Good morning",
+                    "4": "Hello"
+                },
+                "rightAnswer": 3
+            },
+            {
+                "sentence": "Mucho gusto.",
+                "question": "What does 'Mucho gusto' mean?",
+                "options": {
+                    "1": "You're welcome",
+                    "2": "Nice to meet you",
+                    "3": "Thank you",
+                    "4": "Excuse me"
+                },
+                "rightAnswer": 2
+            },
+            {
+                "sentence": "¿Cómo te llamas?",
+                "question": "What does '¿Cómo te llamas?' mean?",
+                "options": {
+                    "1": "How old are you?",
+                    "2": "Where are you from?",
+                    "3": "What's your name?",
+                    "4": "How are you?"
+                },
+                "rightAnswer": 3
+            },
+            {
+                "sentence": "Encantado de conocerte.",
+                "question": "What does 'Encantado de conocerte' mean?",
+                "options": {
+                    "1": "Good evening",
+                    "2": "Pleased to meet you",
+                    "3": "See you later",
+                    "4": "Take care"
+                },
+                "rightAnswer": 2
+            },
+            {
+                "sentence": "Adiós, hasta luego.",
+                "question": "What does 'Adiós' mean?",
+                "options": {
+                    "1": "Hello",
+                    "2": "Goodbye",
+                    "3": "Please",
+                    "4": "Thank you"
+                },
+                "rightAnswer": 2
+            },
+            {
+                "sentence": "Gracias por venir.",
+                "question": "What does 'Gracias' mean?",
+                "options": {
+                    "1": "Sorry",
+                    "2": "Please",
+                    "3": "Thank you",
+                    "4": "You're welcome"
+                },
+                "rightAnswer": 3
+            },
+            {
+                "sentence": "Por favor, pásame el libro.",
+                "question": "What does 'Por favor' mean?",
+                "options": {
+                    "1": "Please",
+                    "2": "Thank you",
+                    "3": "Excuse me",
+                    "4": "Sorry"
+                },
+                "rightAnswer": 1
+            },
+            {
+                "sentence": "Lo siento, no entiendo.",
+                "question": "What does 'Lo siento' mean?",
+                "options": {
+                    "1": "I'm sorry",
+                    "2": "I understand",
+                    "3": "Goodbye",
+                    "4": "I don't know"
+                },
+                "rightAnswer": 1
+            }
+        ]
+    },
+    {
+        "lessonId": 2,
+        "lessonName": "Números del 0 al 100",
+        "lessonPath": "/lesson/2",
+        "questions": [
+            {
+                "sentence": "Tengo cinco manzanas.",
+                "question": "What does 'cinco' mean?",
+                "options": {
+                    "1": "Three",
+                    "2": "Five",
+                    "3": "Ten",
+                    "4": "One"
+                },
+                "rightAnswer": 2
+            },
+            {
+                "sentence": "Hay veinte personas.",
+                "question": "What does 'veinte' mean?",
+                "options": {
+                    "1": "Twenty",
+                    "2": "Ten",
+                    "3": "Fifteen",
+                    "4": "Five"
+                },
+                "rightAnswer": 1
+            },
+            {
+                "sentence": "El número siete es mi favorito.",
+                "question": "What does 'siete' mean?",
+                "options": {
+                    "1": "Five",
+                    "2": "Seven",
+                    "3": "Six",
+                    "4": "Nine"
+                },
+                "rightAnswer": 2
+            },
+            {
+                "sentence": "Cuenta hasta diez.",
+                "question": "What does 'diez' mean?",
+                "options": {
+                    "1": "Eight",
+                    "2": "Ten",
+                    "3": "Twelve",
+                    "4": "Four"
+                },
+                "rightAnswer": 2
+            },
+            {
+                "sentence": "Tengo treinta años.",
+                "question": "What does 'treinta' mean?",
+                "options": {
+                    "1": "Thirty",
+                    "2": "Twenty",
+                    "3": "Thirteen",
+                    "4": "Three"
+                },
+                "rightAnswer": 1
+            },
+            {
+                "sentence": "Hay cien estudiantes.",
+                "question": "What does 'cien' mean?",
+                "options": {
+                    "1": "One hundred",
+                    "2": "Ten",
+                    "3": "Fifty",
+                    "4": "Thousand"
+                },
+                "rightAnswer": 1
+            },
+            {
+                "sentence": "Dos más dos son cuatro.",
+                "question": "What does 'cuatro' mean?",
+                "options": {
+                    "1": "Four",
+                    "2": "Two",
+                    "3": "Six",
+                    "4": "Three"
+                },
+                "rightAnswer": 1
+            },
+            {
+                "sentence": "Mi hermano tiene ocho años.",
+                "question": "What does 'ocho' mean?",
+                "options": {
+                    "1": "Eight",
+                    "2": "Seven",
+                    "3": "Nine",
+                    "4": "Six"
+                },
+                "rightAnswer": 1
+            },
+            {
+                "sentence": "Hay quince flores en el jardín.",
+                "question": "What does 'quince' mean?",
+                "options": {
+                    "1": "Ten",
+                    "2": "Fifteen",
+                    "3": "Five",
+                    "4": "Twenty"
+                },
+                "rightAnswer": 2
+            },
+            {
+                "sentence": "Necesitamos noventa sillas.",
+                "question": "What does 'noventa' mean?",
+                "options": {
+                    "1": "Eighty",
+                    "2": "Ninety",
+                    "3": "Seventy",
+                    "4": "Fifty"
+                },
+                "rightAnswer": 2
+            }
+        ]
+    },
+    {
+        "lessonId": 3,
+        "lessonName": "Colores",
+        "lessonPath": "/lesson/3",
+        "questions": [
+            {
+                "sentence": "La bandera de Estados Unidos es roja, blanca y azul.",
+                "question": "What is the Spanish word for 'blue'?",
+                "options": {
+                    "1": "Verde",
+                    "2": "Amarillo",
+                    "3": "Azul",
+                    "4": "Rojo"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "La manzana es roja.",
+                "question": "What is the Spanish word for 'red'?",
+                "options": {
+                    "1": "Verde",
+                    "2": "Amarillo",
+                    "3": "Azul",
+                    "4": "Rojo"
+                },
+                "rightAnswer": "4"
+            },
+            {
+                "sentence": "El pasto es verde.",
+                "question": "What is the Spanish word for 'green'?",
+                "options": {
+                    "1": "Verde",
+                    "2": "Amarillo",
+                    "3": "Azul",
+                    "4": "Rojo"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "El sol es amarillo.",
+                "question": "What is the Spanish word for 'yellow'?",
+                "options": {
+                    "1": "Verde",
+                    "2": "Amarillo",
+                    "3": "Azul",
+                    "4": "Rojo"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "La nieve es blanca.",
+                "question": "What is the Spanish word for 'white'?",
+                "options": {
+                    "1": "Blanco",
+                    "2": "Negro",
+                    "3": "Gris",
+                    "4": "Marron"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "El cielo es azul.",
+                "question": "What is the Spanish word for 'sky'?",
+                "options": {
+                    "1": "Cielo",
+                    "2": "Tierra",
+                    "3": "Mar",
+                    "4": "Sol"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "El gato es negro.",
+                "question": "What is the Spanish word for 'black'?",
+                "options": {
+                    "1": "Blanco",
+                    "2": "Negro",
+                    "3": "Gris",
+                    "4": "Marron"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "El árbol es marrón.",
+                "question": "What is the Spanish word for 'brown'?",
+                "options": {
+                    "1": "Blanco",
+                    "2": "Negro",
+                    "3": "Gris",
+                    "4": "Marron"
+                },
+                "rightAnswer": "4"
+            },
+            {
+                "sentence": "La nube es gris.",
+                "question": "What is the Spanish word for 'gray'?",
+                "options": {
+                    "1": "Blanco",
+                    "2": "Negro",
+                    "3": "Gris",
+                    "4": "Marron"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "El oro es amarillo.",
+                "question": "What is the Spanish word for 'gold'?",
+                "options": {
+                    "1": "Oro",
+                    "2": "Plata",
+                    "3": "Bronce",
+                    "4": "Acero"
+                },
+                "rightAnswer": "1"
+            }
+        ]
+    },
+    {
+        "lessonId": 4,
+        "lessonName": "El alfabeto y la pronunciación",
+        "lessonPath": "/lesson/4",
+        "questions": [
+            {
+                "sentence": "How many letters are there in the Spanish alphabet?",
+                "question": "How many letters are there in the Spanish alphabet?",
+                "options": {
+                    "1": "26",
+                    "2": "27",
+                    "3": "28",
+                    "4": "29"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Which of these letters is NOT found in the English alphabet?",
+                "question": "Which of these letters is NOT found in the English alphabet?",
+                "options": {
+                    "1": "C",
+                    "2": "Ñ",
+                    "3": "L",
+                    "4": "B"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "How is the letter 'C' pronounced in the word 'casa'?",
+                "question": "How is the letter 'C' pronounced in the word 'casa'?",
+                "options": {
+                    "1": "Like 's'",
+                    "2": "Like 'k'",
+                    "3": "Like 'ch'",
+                    "4": "Like 'z'"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "How is the letter 'G' pronounced in the word 'gente'?",
+                "question": "How is the letter 'G' pronounced in the word 'gente'?",
+                "options": {
+                    "1": "Like 'g' in 'go'",
+                    "2": "Like 'h'",
+                    "3": "Like 'j'",
+                    "4": "Like 'k'"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "What is the correct pronunciation of the letter 'H' in Spanish?",
+                "question": "What is the correct pronunciation of the letter 'H' in Spanish?",
+                "options": {
+                    "1": "Always pronounced strongly",
+                    "2": "Always silent",
+                    "3": "Pronounced only before vowels",
+                    "4": "Pronounced only before consonants"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "How is the letter 'LL' typically pronounced in Spanish?",
+                "question": "How is the letter 'LL' typically pronounced in Spanish?",
+                "options": {
+                    "1": "Like 'll' in 'million'",
+                    "2": "Like 'y' in 'yellow'",
+                    "3": "Like 'l' in 'lion'",
+                    "4": "Like 'w' in 'water'"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Which of these is NOT a digraph?",
+                "question": "Which of these is NOT a digraph?",
+                "options": {
+                    "1": "Ch",
+                    "2": "Ll",
+                    "3": "Rr",
+                    "4": "Ca"
+                },
+                "rightAnswer": "4"
+            },
+            {
+                "sentence": "What is the correct pronunciation of the 'u' in 'güepo'?",
+                "question": "What is the correct pronunciation of the 'u' in 'güepo'?",
+                "options": {
+                    "1": "Silent",
+                    "2": "Pronounced as a vowel",
+                    "3": "Pronounced as a consonant",
+                    "4": "Pronounced with a strong accent"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "True or False: Spanish words are always stressed on the last syllable.",
+                "question": "True or False: Spanish words are always stressed on the last syllable.",
+                "options": {
+                    "1": "True",
+                    "2": "False"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Which of the following is NOT a key to improving Spanish pronunciation?",
+                "question": "Which of the following is NOT a key to improving Spanish pronunciation?",
+                "options": {
+                    "1": "Listening to native speakers",
+                    "2": "Reading aloud frequently",
+                    "3": "Avoiding speaking until you are perfect",
+                    "4": "Using pronunciation guides and resources"
+                },
+                "rightAnswer": "3"
+            }
+        ]
+    },
+    {
+        "lessonId": 5,
+        "lessonName": "Mi familia",
+        "lessonPath": "/lesson/5",
+        "questions": [
+            {
+                "sentence": "Mi madre se llama Ana.",
+                "question": "What is the Spanish word for 'mother'?",
+                "options": {
+                    "1": "Padre",
+                    "2": "Hermano",
+                    "3": "Madre",
+                    "4": "Abuela"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Mi padre se llama Juan.",
+                "question": "What is the Spanish word for 'father'?",
+                "options": {
+                    "1": "Padre",
+                    "2": "Hermano",
+                    "3": "Madre",
+                    "4": "Abuela"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Tengo dos hermanos.",
+                "question": "What is the Spanish word for 'brother'?",
+                "options": {
+                    "1": "Hermana",
+                    "2": "Hermano",
+                    "3": "Abuelo",
+                    "4": "Abuela"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Tengo una hermana.",
+                "question": "What is the Spanish word for 'sister'?",
+                "options": {
+                    "1": "Hermana",
+                    "2": "Hermano",
+                    "3": "Abuelo",
+                    "4": "Abuela"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Mi abuelo se llama Luis.",
+                "question": "What is the Spanish word for 'grandfather'?",
+                "options": {
+                    "1": "Abuelo",
+                    "2": "Abuela",
+                    "3": "Tío",
+                    "4": "Sobrino"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Mi abuela se llama María.",
+                "question": "What is the Spanish word for 'grandmother'?",
+                "options": {
+                    "1": "Abuelo",
+                    "2": "Abuela",
+                    "3": "Tío",
+                    "4": "Sobrino"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Mi tío es muy divertido.",
+                "question": "What is the Spanish word for 'uncle'?",
+                "options": {
+                    "1": "Tío",
+                    "2": "Tía",
+                    "3": "Primo",
+                    "4": "Prima"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Mi tía es muy amable.",
+                "question": "What is the Spanish word for 'aunt'?",
+                "options": {
+                    "1": "Tío",
+                    "2": "Tía",
+                    "3": "Primo",
+                    "4": "Prima"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Tengo dos primos.",
+                "question": "What is the Spanish word for 'cousin' (male)?",
+                "options": {
+                    "1": "Primo",
+                    "2": "Prima",
+                    "3": "Sobrino",
+                    "4": "Sobrina"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Tengo una prima.",
+                "question": "What is the Spanish word for 'cousin' (female)?",
+                "options": {
+                    "1": "Primo",
+                    "2": "Prima",
+                    "3": "Sobrino",
+                    "4": "Sobrina"
+                },
+                "rightAnswer": "2"
+            }
+        ]
+    },
+    {
+        "lessonId": 6,
+        "lessonName": "La hora",
+        "lessonPath": "/lesson/6",
+        "questions": [
+            {
+                "sentence": "Son las tres de la tarde.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's one o'clock.",
+                    "2": "It's two o'clock.",
+                    "3": "It's three o'clock.",
+                    "4": "It's four o'clock."
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Es la una de la tarde.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's one o'clock.",
+                    "2": "It's two o'clock.",
+                    "3": "It's three o'clock.",
+                    "4": "It's four o'clock."
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Son las diez de la noche.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's nine o'clock.",
+                    "2": "It's ten o'clock.",
+                    "3": "It's eleven o'clock.",
+                    "4": "It's twelve o'clock."
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Son las doce del mediodía.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's twelve o'clock at night.",
+                    "2": "It's twelve o'clock in the morning.",
+                    "3": "It's twelve o'clock in the afternoon.",
+                    "4": "It's one o'clock."
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Son las seis de la mañana.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's five o'clock.",
+                    "2": "It's six o'clock.",
+                    "3": "It's seven o'clock.",
+                    "4": "It's eight o'clock."
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Son las ocho y media de la noche.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's eight o'clock.",
+                    "2": "It's eight thirty.",
+                    "3": "It's nine o'clock.",
+                    "4": "It's nine thirty."
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Son las cinco y cuarto de la tarde.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's five o'clock.",
+                    "2": "It's five fifteen.",
+                    "3": "It's five thirty.",
+                    "4": "It's five forty-five."
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Son las once menos cuarto de la mañana.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's ten forty-five.",
+                    "2": "It's eleven fifteen.",
+                    "3": "It's eleven thirty.",
+                    "4": "It's eleven forty-five."
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Es la media noche.",
+                "question": "What time is it?",
+                "options": {
+                    "1": "It's midnight.",
+                    "2": "It's noon.",
+                    "3": "It's one o'clock.",
+                    "4": "It's two o'clock."
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "¿Qué hora es?",
+                "question": "How do you ask 'What time is it?' in Spanish?",
+                "options": {
+                    "1": "¿Cómo te llamas?",
+                    "2": "¿Qué hora es?",
+                    "3": "¿Cómo está?",
+                    "4": "¿Dónde está?"
+                },
+                "rightAnswer": "2"
+            }
+        ]
+    },
+    {
+        "lessonId": 7,
+        "lessonName": "Comida",
+        "lessonPath": "/lesson/7",
+        "questions": [
+            {
+                "sentence": "Me gusta comer manzanas.",
+                "question": "What is the Spanish word for 'apple'?",
+                "options": {
+                    "1": "Uva",
+                    "2": "Manzana",
+                    "3": "Pera",
+                    "4": "Plátano"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Me gusta comer plátanos.",
+                "question": "What is the Spanish word for 'banana'?",
+                "options": {
+                    "1": "Uva",
+                    "2": "Manzana",
+                    "3": "Pera",
+                    "4": "Plátano"
+                },
+                "rightAnswer": "4"
+            },
+            {
+                "sentence": "Me gusta comer uvas.",
+                "question": "What is the Spanish word for 'grape'?",
+                "options": {
+                    "1": "Uva",
+                    "2": "Manzana",
+                    "3": "Pera",
+                    "4": "Plátano"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Me gusta comer carne.",
+                "question": "What is the Spanish word for 'meat'?",
+                "options": {
+                    "1": "Pescado",
+                    "2": "Verdura",
+                    "3": "Carne",
+                    "4": "Fruta"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Me gusta comer pollo.",
+                "question": "What is the Spanish word for 'chicken'?",
+                "options": {
+                    "1": "Carne",
+                    "2": "Pollo",
+                    "3": "Pescado",
+                    "4": "Cerdo"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Me gusta comer arroz.",
+                "question": "What is the Spanish word for 'rice'?",
+                "options": {
+                    "1": "Pan",
+                    "2": "Arroz",
+                    "3": "Pasta",
+                    "4": "Ensalada"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Me gusta beber agua.",
+                "question": "What is the Spanish word for 'water'?",
+                "options": {
+                    "1": "Leche",
+                    "2": "Jugo",
+                    "3": "Agua",
+                    "4": "Café"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Me gusta beber leche.",
+                "question": "What is the Spanish word for 'milk'?",
+                "options": {
+                    "1": "Leche",
+                    "2": "Jugo",
+                    "3": "Agua",
+                    "4": "Café"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Me gusta comer pizza.",
+                "question": "What is the Spanish word for 'pizza'?",
+                "options": {
+                    "1": "Hamburguesa",
+                    "2": "Pizza",
+                    "3": "Taco",
+                    "4": "Sushi"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Me gusta comer helado.",
+                "question": "What is the Spanish word for 'ice cream'?",
+                "options": {
+                    "1": "Galletas",
+                    "2": "Helado",
+                    "3": "Dulce",
+                    "4": "Fruta"
+                },
+                "rightAnswer": "2"
+            }
+        ]
+    },
+    {
+        "lessonId": 8,
+        "lessonName": "Rutinas diarias",
+        "lessonPath": "/lesson/8",
+        "questions": [
+            {
+                "sentence": "Me despierto a las siete de la mañana.",
+                "question": "What does the verb 'despertarse' mean in English?",
+                "options": {
+                    "1": "To go to bed",
+                    "2": "To wake up",
+                    "3": "To eat",
+                    "4": "To sleep"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Me levanto de la cama.",
+                "question": "What does the verb 'levantarse' mean in English?",
+                "options": {
+                    "1": "To go to bed",
+                    "2": "To wake up",
+                    "3": "To get up",
+                    "4": "To sleep"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Desayuno todos los días.",
+                "question": "What does the verb 'desayunar' mean in English?",
+                "options": {
+                    "1": "To have breakfast",
+                    "2": "To have lunch",
+                    "3": "To have dinner",
+                    "4": "To go to bed"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Almuerzo en la escuela.",
+                "question": "What does the verb 'almorzar' mean in English?",
+                "options": {
+                    "1": "To have breakfast",
+                    "2": "To have lunch",
+                    "3": "To have dinner",
+                    "4": "To go to bed"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Ceno a las ocho de la noche.",
+                "question": "What does the verb 'cenar' mean in English?",
+                "options": {
+                    "1": "To have breakfast",
+                    "2": "To have lunch",
+                    "3": "To have dinner",
+                    "4": "To go to bed"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Me acuesto temprano.",
+                "question": "What does the verb 'acostarse' mean in English?",
+                "options": {
+                    "1": "To wake up",
+                    "2": "To get up",
+                    "3": "To go to bed",
+                    "4": "To eat"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Duermo ocho horas por noche.",
+                "question": "What does the verb 'dormir' mean in English?",
+                "options": {
+                    "1": "To eat",
+                    "2": "To drink",
+                    "3": "To sleep",
+                    "4": "To work"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Me lavo las manos antes de comer.",
+                "question": "What does the verb 'lavarse' mean in English?",
+                "options": {
+                    "1": "To eat",
+                    "2": "To drink",
+                    "3": "To wash",
+                    "4": "To sleep"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Me baño todas las noches.",
+                "question": "What does the verb 'bañarse' mean in English?",
+                "options": {
+                    "1": "To eat",
+                    "2": "To drink",
+                    "3": "To sleep",
+                    "4": "To bathe"
+                },
+                "rightAnswer": "4"
+            },
+            {
+                "sentence": "Estudio por las tardes.",
+                "question": "What does the verb 'estudiar' mean in English?",
+                "options": {
+                    "1": "To work",
+                    "2": "To play",
+                    "3": "To study",
+                    "4": "To eat"
+                },
+                "rightAnswer": "3"
+            }
+        ]
+    },
+    {
+        "lessonId": 9,
+        "lessonName": "Lugares cotidianos",
+        "lessonPath": "/lesson/9",
+        "questions": [
+            {
+                "sentence": "Vivo en una casa.",
+                "question": "What is the Spanish word for 'house'?",
+                "options": {
+                    "1": "Casa",
+                    "2": "Escuela",
+                    "3": "Trabajo",
+                    "4": "Restaurante"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Voy a la escuela todos los días.",
+                "question": "What is the Spanish word for 'school'?",
+                "options": {
+                    "1": "Casa",
+                    "2": "Escuela",
+                    "3": "Trabajo",
+                    "4": "Restaurante"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Mi papá trabaja en una oficina.",
+                "question": "What is the Spanish word for 'work'?",
+                "options": {
+                    "1": "Casa",
+                    "2": "Escuela",
+                    "3": "Trabajo",
+                    "4": "Restaurante"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Cenamos en un restaurante.",
+                "question": "What is the Spanish word for 'restaurant'?",
+                "options": {
+                    "1": "Casa",
+                    "2": "Escuela",
+                    "3": "Trabajo",
+                    "4": "Restaurante"
+                },
+                "rightAnswer": "4"
+            },
+            {
+                "sentence": "Voy al supermercado a comprar comida.",
+                "question": "What is the Spanish word for 'supermarket'?",
+                "options": {
+                    "1": "Banco",
+                    "2": "Biblioteca",
+                    "3": "Supermercado",
+                    "4": "Farmacia"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Voy al cine a ver una película.",
+                "question": "What is the Spanish word for 'cinema'?",
+                "options": {
+                    "1": "Teatro",
+                    "2": "Cine",
+                    "3": "Museo",
+                    "4": "Parque"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Voy al parque a jugar.",
+                "question": "What is the Spanish word for 'park'?",
+                "options": {
+                    "1": "Teatro",
+                    "2": "Cine",
+                    "3": "Museo",
+                    "4": "Parque"
+                },
+                "rightAnswer": "4"
+            },
+            {
+                "sentence": "Voy a la biblioteca a estudiar.",
+                "question": "What is the Spanish word for 'library'?",
+                "options": {
+                    "1": "Banco",
+                    "2": "Biblioteca",
+                    "3": "Supermercado",
+                    "4": "Farmacia"
+                },
+                "rightAnswer": "2"
+            },
+            {
+                "sentence": "Voy al banco a retirar dinero.",
+                "question": "What is the Spanish word for 'bank'?",
+                "options": {
+                    "1": "Banco",
+                    "2": "Biblioteca",
+                    "3": "Supermercado",
+                    "4": "Farmacia"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Voy a la farmacia a comprar medicamentos.",
+                "question": "What is the Spanish word for 'pharmacy'?",
+                "options": {
+                    "1": "Banco",
+                    "2": "Biblioteca",
+                    "3": "Supermercado",
+                    "4": "Farmacia"
+                },
+                "rightAnswer": "4"
+            }
+        ]
+    },
+    {
+        "lessonId": 10,
+        "lessonName": "Verbos básicos",
+        "lessonPath": "/lesson/10",
+        "questions": [
+            {
+                "sentence": "Yo soy estudiante.",
+                "question": "What does the verb 'soy' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Tú eres profesor.",
+                "question": "What does the verb 'eres' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Él es médico.",
+                "question": "What does the verb 'es' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Ella es enfermera.",
+                "question": "What does the verb 'es' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Nosotros somos amigos.",
+                "question": "What does the verb 'somos' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Vosotros sois estudiantes.",
+                "question": "What does the verb 'sois' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Ellos son profesores.",
+                "question": "What does the verb 'son' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "3"
+            },
+            {
+                "sentence": "Yo tengo un perro.",
+                "question": "What does the verb 'tener' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Ella tiene dos gatos.",
+                "question": "What does the verb 'tiene' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "1"
+            },
+            {
+                "sentence": "Nosotros hacemos la tarea.",
+                "question": "What does the verb 'hacer' mean in English?",
+                "options": {
+                    "1": "To have",
+                    "2": "To do",
+                    "3": "To be",
+                    "4": "To go"
+                },
+                "rightAnswer": "2"
+            }
+        ]
+    }
+]
